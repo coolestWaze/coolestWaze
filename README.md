@@ -9,7 +9,7 @@ I'm Guilherme Rigobelli, a 15-year-old boy from Brazil. Currently, I'm diving in
 - **Current Focus:** Learning Python
 - **Future Goals:** Exploring opportunities in programming and technology
 
-At the moment, I'm not looking for a job due to my age and limited experience, but I'm committed to honing my skills and working on interesting projects.
+At the moment I am working on a python text RPG game.
 
 ## What I'm Working On
 
