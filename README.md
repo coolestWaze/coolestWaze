@@ -11,8 +11,8 @@ I'm Guilherme Rigobelli, a 15-year-old boy from Brazil. Currently, I'm diving in
 
 
 ## What I'm Working On
-- **PROJECT:** 
-  At the moment I am working on a python text RPG game. 
+- **STUDIES:** 
+  At the moment, I am studying java.
 
 ## Get in Touch
 
