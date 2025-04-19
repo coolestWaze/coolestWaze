@@ -1,12 +1,12 @@
 # Hello there! 👋
 
-I'm Guilherme Rigobelli, a 15-year-old boy from Brazil. Currently, I'm diving into the world of programming with a focus on Python. (for first language)
+I'm Guilherme Rigobelli, a 15-year-old boy from Brazil. Currently, I'm diving into the world of programming with a focus on Java. (for second language --> first: python)
 
 ## About Me
 
 - **Age:** 15
 - **Location:** Brazil
-- **Current Focus:** Learning Python
+- **Current Focus:** Learning java
 - **Future Goals:** Exploring opportunities in programming and technology
 
 
